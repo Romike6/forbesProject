@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: Arial;
+}
+.part-1{
+    background-color: rgb(255, 0, 0);
+    height: 46px;
+    width: 30%;
+    color: white;
+    border-radius: 12%;
+    margin-left: 320px;
+    margin-bottom: 10px;
+}
+
+#search{
+    margin-left: 44px;
+    width: 30px;
+    height: 30px;
+    border-radius: 30%;
+    background-color: rgba(255, 255, 255, 0.832);
+    border: solid 1px; color: black; 
+}
+
+
+.navbar ul{
+    list-style: none;
+    background: black;
+    padding: 0;
+    margin: 0;
+    border: solid 1px;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar a{
+    text-decoration: none;
+    color:  white;
+    width: 100%;
+    display: block;
+    padding: 9px 9px;
+    margin-left: 30px;
+}
+
+.navbar a:hover{
+    background: blueviolet;
+    height: 30px;
+    width: 100%;
+}
+.nav-imag{
+    margin-bottom: -15px;
+}
+.image-container{
+   
+    background-size: 110%;
+    background-image: url(../img/MicrosoftTeams-image-8.jpeg);
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-left: -70px;
+}
+.image1{
+    
+    margin-bottom: 40px;
+    height: 70px;
+    margin-left: 130px;
+}
+.part-2{
+    height: 55px;
+    width: 6%;
+    border-radius: 37%;
+    margin-left: 157px;
+    text-transform: uppercase;
+    
+}
+.part-2:hover{
+    background: red;
+}
+.linea1{
+    margin-right: 240px;
+    
+}
+.linea2{
+    justify-content: flex-end;
+    margin-right: 100px;
+    text-align: center;
+    font-size: 35px;
+    
+}
+
+.linea3{
+    justify-content: flex-end;
+    margin-left: 80px;
+}
+.navbar1 ul{
+    list-style: none;
+    padding: 3;
+    margin: 3;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    margin-left: 20px;    
+}
+
+.c1{
+    margin-left: 10px;
+}
+.c2{
+    margin-left: 10px;
+}
+
+.c3{
+    margin-left: 10px;
+}
+
+.c4{
+    margin-left: 10px;
+}
+
+.c5{
+    margin-left: 10px;
+}
+
+.c6{
+    margin-left: 10px;
+}
+
+.navbar1 li{
+    display: inline-block;
+}
+
+p{
+    margin-left: 300px;
+}
+
+section.part_1{
+    width: 32%;
+    float: right;
+    margin-top: -120px;
+}
+
+.part_3{
+    background-color: blue;
+    height: 39px;
+    width: 9;
+    border-radius: 12%;
+    margin-left: -600px;
+    color: white;
+}
+
+.part_4{
+    background-color: blue;
+    height: 39px;
+    width: 9;
+    border-radius: 12%;
+    color: white;
+}
+
+.part_5{
+    margin-left: 380px;
+    margin-top: -60px;
+}
+
+.part_6{
+    margin-left: 380px;
+    margin-top: -57px;
+}
+.PP{
+    margin-left: -2px;
+    font-size: 14px
+}
